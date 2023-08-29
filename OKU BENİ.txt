@@ -1,0 +1,2 @@
+Ödevin 2.sorusunun 3.şıkkında stringleri satır satır almak için bir do while döngüsü
+oluşturdum. Bu döngüden çıkmak içinde ENTER tuşuna basmanız yeterlidir.

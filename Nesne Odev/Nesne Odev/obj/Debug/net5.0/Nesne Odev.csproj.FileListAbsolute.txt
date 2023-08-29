@@ -1,0 +1,32 @@
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.exe
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.deps.json
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.runtimeconfig.json
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.runtimeconfig.dev.json
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.dll
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\bin\Debug\net5.0\ref\Nesne Odev.dll
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.pdb
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.csprojAssemblyReference.cache
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.AssemblyInfoInputs.cache
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.AssemblyInfo.cs
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.dll
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\ref\Nesne Odev.dll
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.pdb
+C:\Users\yavuz\source\repos\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.exe
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.deps.json
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.runtimeconfig.dev.json
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.dll
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\bin\Debug\net5.0\ref\Nesne Odev.dll
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\bin\Debug\net5.0\Nesne Odev.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.csprojAssemblyReference.cache
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.dll
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\ref\Nesne Odev.dll
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\G201210087-YAVUZ ARSLAN-2C\Nesne Odev\Nesne Odev\obj\Debug\net5.0\Nesne Odev.genruntimeconfig.cache
